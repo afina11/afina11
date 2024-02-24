@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @afina11
--  I’m currently learning js
 - 📫 How to reach me afina.aghajanyan11@gmail.com
 
 
